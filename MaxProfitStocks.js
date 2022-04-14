@@ -23,4 +23,4 @@ function maxProfitDays(stockPrices) {
   }
   
 
-console.log(maxProfitDays([17, 11, 60, 25, 150, 75, 31, 120]));
+console.log(maxProfitDays([1, 11, 60, 25, 0.5, 75, 31, 15540]));
