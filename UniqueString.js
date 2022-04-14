@@ -1,7 +1,11 @@
 function uniqueCharacters(stringIn) {
-
-
   const array = [];
+  
+
+  if(stringIn == ""){
+    return "Error";
+  }
+
 
 
   for(i = 0; i < stringIn.length; i++){
@@ -26,6 +30,7 @@ function uniqueCharacters(stringIn) {
 
     }
 return true; 
+ 
  
 
   
