@@ -39,4 +39,4 @@ return true;
 
 
 
-console.log(uniqueCharacters("helo"));
+console.log(uniqueCharacters("hello"));
